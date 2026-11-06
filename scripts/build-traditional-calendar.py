@@ -8,6 +8,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'data' / 'traditional-calendar.json'
 STAMP = '20261106T000000Z'
 SOURCE = 'https://www.hko.gov.hk/sc/gts/time/conversion1_text.htm'
+PMO_SOURCE = 'https://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf'
+PMO_TERMS = {2026: {1, 2, 3, 7, 8, 9, 10, 11, 12}, 2027: {1, 2}}
 
 
 def fold(line):
@@ -28,11 +30,12 @@ def event(date, name, kind):
     next_day = d + datetime.timedelta(days=1)
     key = 'festival' if kind == '传统节日' else 'solar-term'
     uid = f'{d:%Y%m%d}-{key}-{name}@samsurtee-china-holidays'
+    source = (PMO_SOURCE if kind == '节气' and d.month in PMO_TERMS.get(d.year, set()) else SOURCE)
     return [
         'BEGIN:VEVENT', f'DTSTART;VALUE=DATE:{d:%Y%m%d}',
         f'DTEND;VALUE=DATE:{next_day:%Y%m%d}', f'DTSTAMP:{STAMP}',
         f'UID:{uid}', f'SUMMARY:{name}（{kind}）',
-        f'DESCRIPTION:{kind}日期。来源：香港天文台公历与农历对照表\\n{SOURCE}',
+        f'DESCRIPTION:{kind}日期。数据来源：' + ('中国科学院紫金山天文台' if source == PMO_SOURCE else '香港天文台') + f'\\n{source}',
         'TRANSP:TRANSPARENT', 'END:VEVENT',
     ]
 
