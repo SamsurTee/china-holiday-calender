@@ -9,6 +9,12 @@
 - [放假和补班](https://raw.githubusercontent.com/SamsurTee/china-holiday-calender/master/holidayCal.ics)
 - [仅放假](https://raw.githubusercontent.com/SamsurTee/china-holiday-calender/master/holidayCal-HO.ics)
 - [仅补班](https://raw.githubusercontent.com/SamsurTee/china-holiday-calender/master/holidayCal-CO.ics)
+- [传统节日和二十四节气](https://raw.githubusercontent.com/SamsurTee/china-holiday-calender/master/traditionalCalendar.ics)
+- [综合日历：放假、补班、传统节日和节气](https://raw.githubusercontent.com/SamsurTee/china-holiday-calender/master/completeCalendar.ics)
+
+传统节日和节气目前覆盖 **2026—2027 年**，日期依据[香港天文台公历与农历日期对照表](https://www.hko.gov.hk/sc/gts/time/conversion1_text.htm)，按北京时间（UTC+8）以全天事件显示。传统节日包括除夕、春节、元宵节、龙抬头、清明节、端午节、七夕节、中元节、中秋节、重阳节和腊八节。综合日历可能在同一天显示假期、节日或节气等多个事件；节日和节气本身不代表放假。
+
+建议选择综合日历，或分别选择放假补班日历与传统节日日历，以避免重复订阅。
 
 这些链接直接读取本仓库默认分支上的文件。更新文件后，订阅者会在日历应用下次刷新时收到更新；刷新频率取决于各日历应用。GitHub 在不同网络环境下的访问情况可能不同。
 
@@ -31,7 +37,7 @@
 
 ## 维护
 
-本仓库由维护者自行更新，fork 不会自动同步原项目。新增或修改安排时，需要同步检查 `holidayAPI.json` 和三份 `.ics` 文件，确保放假日期、补班日期与提醒一致。可依据官方通知更新，并在日历和 JSON 中保留来源链接。
+本仓库由维护者自行更新，fork 不会自动同步原项目。新增或修改安排时，需要同步检查 `holidayAPI.json` 和三份 `.ics` 文件，确保放假日期、补班日期与提醒一致。可依据官方通知更新，并在日历和 JSON 中保留来源链接。传统节日和节气日期保存在 `data/traditional-calendar.json`；核对并添加新年份后，运行 `python3 scripts/build-traditional-calendar.py` 重新生成单独日历和综合日历。修改 `holidayCal.ics` 后也应重新运行该命令，以同步综合日历。
 
 ## 致谢
 

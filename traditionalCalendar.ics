@@ -1,0 +1,708 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SamsurTee//Traditional Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中国传统节日和二十四节气
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+DTSTAMP:20261106T000000Z
+UID:20260105-solar-term-小寒@samsurtee-china-holidays
+SUMMARY:小寒（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+DTSTAMP:20261106T000000Z
+UID:20260120-solar-term-大寒@samsurtee-china-holidays
+SUMMARY:大寒（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+DTSTAMP:20261106T000000Z
+UID:20260126-festival-腊八节@samsurtee-china-holidays
+SUMMARY:腊八节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+DTSTAMP:20261106T000000Z
+UID:20260204-solar-term-立春@samsurtee-china-holidays
+SUMMARY:立春（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+DTSTAMP:20261106T000000Z
+UID:20260216-festival-除夕@samsurtee-china-holidays
+SUMMARY:除夕（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+DTSTAMP:20261106T000000Z
+UID:20260217-festival-春节@samsurtee-china-holidays
+SUMMARY:春节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+DTSTAMP:20261106T000000Z
+UID:20260218-solar-term-雨水@samsurtee-china-holidays
+SUMMARY:雨水（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+DTSTAMP:20261106T000000Z
+UID:20260303-festival-元宵节@samsurtee-china-holidays
+SUMMARY:元宵节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+DTSTAMP:20261106T000000Z
+UID:20260305-solar-term-惊蛰@samsurtee-china-holidays
+SUMMARY:惊蛰（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DTSTAMP:20261106T000000Z
+UID:20260320-solar-term-春分@samsurtee-china-holidays
+SUMMARY:春分（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+DTSTAMP:20261106T000000Z
+UID:20260320-festival-龙抬头@samsurtee-china-holidays
+SUMMARY:龙抬头（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DTSTAMP:20261106T000000Z
+UID:20260405-solar-term-清明@samsurtee-china-holidays
+SUMMARY:清明（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DTSTAMP:20261106T000000Z
+UID:20260405-festival-清明节@samsurtee-china-holidays
+SUMMARY:清明节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DTSTAMP:20261106T000000Z
+UID:20260420-solar-term-谷雨@samsurtee-china-holidays
+SUMMARY:谷雨（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DTSTAMP:20261106T000000Z
+UID:20260505-solar-term-立夏@samsurtee-china-holidays
+SUMMARY:立夏（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+DTSTAMP:20261106T000000Z
+UID:20260521-solar-term-小满@samsurtee-china-holidays
+SUMMARY:小满（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+DTSTAMP:20261106T000000Z
+UID:20260605-solar-term-芒种@samsurtee-china-holidays
+SUMMARY:芒种（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+DTSTAMP:20261106T000000Z
+UID:20260619-festival-端午节@samsurtee-china-holidays
+SUMMARY:端午节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DTSTAMP:20261106T000000Z
+UID:20260621-solar-term-夏至@samsurtee-china-holidays
+SUMMARY:夏至（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+DTSTAMP:20261106T000000Z
+UID:20260707-solar-term-小暑@samsurtee-china-holidays
+SUMMARY:小暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+DTSTAMP:20261106T000000Z
+UID:20260723-solar-term-大暑@samsurtee-china-holidays
+SUMMARY:大暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20261106T000000Z
+UID:20260807-solar-term-立秋@samsurtee-china-holidays
+SUMMARY:立秋（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+DTSTAMP:20261106T000000Z
+UID:20260819-festival-七夕节@samsurtee-china-holidays
+SUMMARY:七夕节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20261106T000000Z
+UID:20260823-solar-term-处暑@samsurtee-china-holidays
+SUMMARY:处暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20261106T000000Z
+UID:20260827-festival-中元节@samsurtee-china-holidays
+SUMMARY:中元节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20261106T000000Z
+UID:20260907-solar-term-白露@samsurtee-china-holidays
+SUMMARY:白露（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20261106T000000Z
+UID:20260923-solar-term-秋分@samsurtee-china-holidays
+SUMMARY:秋分（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20261106T000000Z
+UID:20260925-festival-中秋节@samsurtee-china-holidays
+SUMMARY:中秋节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261106T000000Z
+UID:20261008-solar-term-寒露@samsurtee-china-holidays
+SUMMARY:寒露（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261106T000000Z
+UID:20261018-festival-重阳节@samsurtee-china-holidays
+SUMMARY:重阳节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261106T000000Z
+UID:20261023-solar-term-霜降@samsurtee-china-holidays
+SUMMARY:霜降（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261106T000000Z
+UID:20261107-solar-term-立冬@samsurtee-china-holidays
+SUMMARY:立冬（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261106T000000Z
+UID:20261122-solar-term-小雪@samsurtee-china-holidays
+SUMMARY:小雪（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DTSTAMP:20261106T000000Z
+UID:20261207-solar-term-大雪@samsurtee-china-holidays
+SUMMARY:大雪（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20261106T000000Z
+UID:20261222-solar-term-冬至@samsurtee-china-holidays
+SUMMARY:冬至（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20261106T000000Z
+UID:20270105-solar-term-小寒@samsurtee-china-holidays
+SUMMARY:小寒（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20261106T000000Z
+UID:20270115-festival-腊八节@samsurtee-china-holidays
+SUMMARY:腊八节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DTSTAMP:20261106T000000Z
+UID:20270120-solar-term-大寒@samsurtee-china-holidays
+SUMMARY:大寒（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+DTSTAMP:20261106T000000Z
+UID:20270204-solar-term-立春@samsurtee-china-holidays
+SUMMARY:立春（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+DTSTAMP:20261106T000000Z
+UID:20270205-festival-除夕@samsurtee-china-holidays
+SUMMARY:除夕（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DTSTAMP:20261106T000000Z
+UID:20270206-festival-春节@samsurtee-china-holidays
+SUMMARY:春节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+DTSTAMP:20261106T000000Z
+UID:20270219-solar-term-雨水@samsurtee-china-holidays
+SUMMARY:雨水（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261106T000000Z
+UID:20270220-festival-元宵节@samsurtee-china-holidays
+SUMMARY:元宵节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+DTSTAMP:20261106T000000Z
+UID:20270306-solar-term-惊蛰@samsurtee-china-holidays
+SUMMARY:惊蛰（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DTSTAMP:20261106T000000Z
+UID:20270309-festival-龙抬头@samsurtee-china-holidays
+SUMMARY:龙抬头（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261106T000000Z
+UID:20270321-solar-term-春分@samsurtee-china-holidays
+SUMMARY:春分（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20261106T000000Z
+UID:20270405-solar-term-清明@samsurtee-china-holidays
+SUMMARY:清明（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DTSTAMP:20261106T000000Z
+UID:20270405-festival-清明节@samsurtee-china-holidays
+SUMMARY:清明节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+DTSTAMP:20261106T000000Z
+UID:20270420-solar-term-谷雨@samsurtee-china-holidays
+SUMMARY:谷雨（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20261106T000000Z
+UID:20270506-solar-term-立夏@samsurtee-china-holidays
+SUMMARY:立夏（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DTSTAMP:20261106T000000Z
+UID:20270521-solar-term-小满@samsurtee-china-holidays
+SUMMARY:小满（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261106T000000Z
+UID:20270606-solar-term-芒种@samsurtee-china-holidays
+SUMMARY:芒种（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20261106T000000Z
+UID:20270609-festival-端午节@samsurtee-china-holidays
+SUMMARY:端午节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+DTSTAMP:20261106T000000Z
+UID:20270621-solar-term-夏至@samsurtee-china-holidays
+SUMMARY:夏至（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+DTSTAMP:20261106T000000Z
+UID:20270707-solar-term-小暑@samsurtee-china-holidays
+SUMMARY:小暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+DTSTAMP:20261106T000000Z
+UID:20270723-solar-term-大暑@samsurtee-china-holidays
+SUMMARY:大暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20261106T000000Z
+UID:20270808-festival-七夕节@samsurtee-china-holidays
+SUMMARY:七夕节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+DTSTAMP:20261106T000000Z
+UID:20270808-solar-term-立秋@samsurtee-china-holidays
+SUMMARY:立秋（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20261106T000000Z
+UID:20270816-festival-中元节@samsurtee-china-holidays
+SUMMARY:中元节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+DTSTAMP:20261106T000000Z
+UID:20270823-solar-term-处暑@samsurtee-china-holidays
+SUMMARY:处暑（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+DTSTAMP:20261106T000000Z
+UID:20270908-solar-term-白露@samsurtee-china-holidays
+SUMMARY:白露（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+DTSTAMP:20261106T000000Z
+UID:20270915-festival-中秋节@samsurtee-china-holidays
+SUMMARY:中秋节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+DTSTAMP:20261106T000000Z
+UID:20270923-solar-term-秋分@samsurtee-china-holidays
+SUMMARY:秋分（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DTSTAMP:20261106T000000Z
+UID:20271008-solar-term-寒露@samsurtee-china-holidays
+SUMMARY:寒露（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+DTSTAMP:20261106T000000Z
+UID:20271008-festival-重阳节@samsurtee-china-holidays
+SUMMARY:重阳节（传统节日）
+DESCRIPTION:传统节日日期。来源：香港天文台公历与农历对
+ 照表\nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+DTSTAMP:20261106T000000Z
+UID:20271023-solar-term-霜降@samsurtee-china-holidays
+SUMMARY:霜降（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+DTSTAMP:20261106T000000Z
+UID:20271107-solar-term-立冬@samsurtee-china-holidays
+SUMMARY:立冬（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+DTSTAMP:20261106T000000Z
+UID:20271122-solar-term-小雪@samsurtee-china-holidays
+SUMMARY:小雪（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+DTSTAMP:20261106T000000Z
+UID:20271207-solar-term-大雪@samsurtee-china-holidays
+SUMMARY:大雪（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+DTSTAMP:20261106T000000Z
+UID:20271222-solar-term-冬至@samsurtee-china-holidays
+SUMMARY:冬至（节气）
+DESCRIPTION:节气日期。来源：香港天文台公历与农历对照表
+ \nhttps://www.hko.gov.hk/sc/gts/time/conversion1_text.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
